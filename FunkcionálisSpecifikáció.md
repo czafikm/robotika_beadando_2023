@@ -8,11 +8,11 @@ Webes felületen keresztül lehet irányítani egy ...-t
 
 ## 2, Alkatrészek:
 
--potméter
--jumper kábelek
--gomb
--buzzer
--
+*potméter
+*jumper kábelek
+*gomb
+*buzzer
+
 
 ## 3, Használati esetek: 
 
