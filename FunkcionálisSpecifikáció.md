@@ -3,15 +3,16 @@
 
 ## 1, Rendszer leírás
 
-Webes felületen keresztül lehet irányítani egy ...-t 
+Webes felületen keresztül lehet egy LCD kijelzőre kirajzolni különböző formákat. 
 
 
 ## 2, Alkatrészek:
 
 - potméter
 - jumper kábelek
-- gomb
-- buzzer
+- gomb (5 darab)
+- buzzer 
+- LCD kijelző 
 
 
 ## 3, Használati esetek: 
@@ -25,6 +26,5 @@ Webes felületen keresztül lehet irányítani egy ...-t
 - felület elhagyás esetén buzzer megszólal
 
 ## 4, Képernyőtervek
-
 
 
