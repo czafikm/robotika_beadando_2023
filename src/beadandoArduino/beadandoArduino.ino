@@ -9,6 +9,7 @@
 #define btn3 4  //fel
 #define btn4 5  //le
 #define btn5 6  //reset
+#define buzzer 7
 #define pot 0
 
 // Declaration for an SSD1306 display connected to I2C (SDA, SCL pins)
@@ -21,6 +22,7 @@ int delay_ = 20;
 void setup() {
   Serial.begin(115200);
 
+  pinMode(buzzer, OUTPUT);
   pinMode(btn1, INPUT);
   pinMode(btn2, INPUT);
   pinMode(btn3, INPUT);
@@ -81,15 +83,19 @@ void drawPixelMatrix(int size) {
   // Ellenőrizzük a méretet, ne lépjük túl a kijelző határait
   if (x + size > SCREEN_WIDTH) {
     x = SCREEN_WIDTH - size;
+    doBuzzer();
   }
   else if(y + size > SCREEN_HEIGHT){
     y = SCREEN_HEIGHT - size;
+    doBuzzer();
   }
   else if(y < 0){
     y = 0;
+    doBuzzer();
   }
   else if(x < 0){
     x = 0;
+    doBuzzer();
   }
 
   // Végigmegyünk a mátrixon és beállítjuk a pixel értékeket
@@ -98,4 +104,11 @@ void drawPixelMatrix(int size) {
       display.drawPixel(x + i, y + j, WHITE);
     }
   }
+}
+
+void doBuzzer(){
+  tone(buzzer, 1000);
+  delay(200);
+  noTone(buzzer);
+  delay(200);
 }
