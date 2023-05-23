@@ -28,10 +28,12 @@ Webes felületen keresztül lehet egy LCD kijelzőre kirajzolni különböző fo
 ## 4, Képernyőtervek
 
 
-![image](https://github.com/czafikm/robotika_beadando_2023/assets/114134902/3248d0eb-c5ac-41ab-b56d-a719abfb55f0)
+![image](https://github.com/czafikm/robotika_beadando_2023/assets/114134902/ec70becd-38a9-4b21-bab3-123dec3cd259)
+
 
 
 Sematikus rajz
 
 
-![image](https://github.com/czafikm/robotika_beadando_2023/assets/114134902/ca47611a-c59b-4b7a-b03c-e70c009f3d66)
+![image](https://github.com/czafikm/robotika_beadando_2023/assets/114134902/b672b010-afbb-49ad-b4d3-3c2d61751196)
+
