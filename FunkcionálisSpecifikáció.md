@@ -48,6 +48,7 @@ Sematikus rajz
   - D: Le mozog
   - R: Jobbra mozog
   - L: Balra mozog
+  
 2, gomblenyomások jelölése:
   - u: fel
   - d: le
