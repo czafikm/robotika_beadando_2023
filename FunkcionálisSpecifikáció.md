@@ -41,14 +41,14 @@ Sematikus rajz
 ## 5, Állapotátmenet gráfok
 
 ### jelölések:
-- állapotok jelölése:
+1, állapotok jelölése:
   - kurzor mozgása alapján:
   - S: Egy helyben áll
   - U: Fel mozog
   - D: Le mozog
   - R: Jobbra mozog
   - L: Balra mozog
--gomblenyomások jelölése:
+2, gomblenyomások jelölése:
   - u: fel
   - d: le
   - r: jobbra
