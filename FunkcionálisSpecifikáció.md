@@ -42,17 +42,17 @@ Sematikus rajz
 
 ### jelölések:
 - állapotok jelölése:
--- kurzor mozgása alapján:
---- S: Egy helyben áll
---- U: Fel mozog
---- D: Le mozog
---- R: Jobbra mozog
---- L: Balra mozog
+  - kurzor mozgása alapján:
+  - S: Egy helyben áll
+  - U: Fel mozog
+  - D: Le mozog
+  - R: Jobbra mozog
+  - L: Balra mozog
 -gomblenyomások jelölése:
--- u: fel
--- d: le
--- r: jobbra
--- l: balra
+  - u: fel
+  - d: le
+  - r: jobbra
+  - l: balra
 
 ### Kezdetben a kurzor középen helyezkedik el és onnan lehet különböző irányokba mozgatni. Azonban, ha a felület szélére ér és nem tud tovább menni abba az irányba, megszólal a buzzer ezt jelezve. Plusz a reset gombot megnyomva törlődik a felületet és visszaáll a kurzor a kezdőpontra.
 
