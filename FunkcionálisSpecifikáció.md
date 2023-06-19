@@ -64,6 +64,6 @@ Sematikus rajz
 
 
 Készítette:
-Czafik Milán
-Szekeres Márk
+Czafik Milán,
+Szekeres Márk,
 Horváth Medárd
