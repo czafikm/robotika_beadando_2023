@@ -35,7 +35,8 @@ Webes felületen keresztül lehet egy LCD kijelzőre kirajzolni különböző fo
 Sematikus rajz
 
 
-![image](https://github.com/czafikm/robotika_beadando_2023/assets/114134902/b672b010-afbb-49ad-b4d3-3c2d61751196)
+![image](https://github.com/czafikm/robotika_beadando_2023/assets/114134902/549a2499-f277-4ddf-b5e9-b550444d825c)
+
 
 
 ## 5, Állapotátmenet gráfok
@@ -59,3 +60,10 @@ Sematikus rajz
 ### Kezdetben a kurzor középen helyezkedik el és onnan lehet különböző irányokba mozgatni. Azonban, ha a felület szélére ér és nem tud tovább menni abba az irányba, megszólal a buzzer ezt jelezve. Plusz a reset gombot megnyomva törlődik a felületet és visszaáll a kurzor a kezdőpontra.
 
 ![robotika_állapotátmenet](https://github.com/czafikm/robotika_beadando_2023/assets/114134902/16cb3ee1-38c8-40dc-ae60-2f2aa2265559)
+
+
+
+Készítette:
+Czafik Milán
+Szekeres Márk
+Horváth Medárd
